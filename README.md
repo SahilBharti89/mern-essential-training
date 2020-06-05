@@ -1,4 +1,4 @@
-"# MERN Essential Training course by lynda.com" 
+# MERN Essential Training course by lynda.com
 Course is focused on how MongoDB, Express, React, and Node.js, or MERN, work together, 
 and how to build a full-stack application with the MERN stack. In this course, 
 instructor Emmanuel Henri explained well MERN stack. Using practical examples, he shines a spotlight on each step of the process. 
